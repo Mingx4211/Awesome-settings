@@ -1,0 +1,1 @@
+This is the .pip directory in home directory; the inner file pip.conf is the configuration file of pip; changing the default repo pip use to mirrors.ustc.edu.cn/pypi/web/simple
